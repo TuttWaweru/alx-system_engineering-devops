@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ind . -type d -exec chmod a+x {} \
+sudo ind . -type d -exec chmod 711 {} \
